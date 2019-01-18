@@ -542,7 +542,7 @@ export class Common extends GridLayout {
 
       if (self.multiple == false) self.doneSelect();
 
-      listView.refresh();
+      //listView.refresh();
       return true;
     });
 
